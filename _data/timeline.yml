@@ -17,45 +17,36 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Saama Technologies
+  title-url: https://www.saama.com/
+  date: July 2019 - Present
+  subtitle: AI Research Engineer
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Python
+    - tag: Pytorch
+    - tag: Numpy
+    - tag: Pandas
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Pathfiner Global FZCO
+  title-url: https://www.pathfinder.global/
+  date: Feb 2018 - July 2019
+  subtitle: Junior Data Scientist
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Python
+    - tag: Keras
+    - tag: Pytorch
+    - tag: C
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Crescent University 
+  title-url: https://crescent.education/
+  date: 2015 - 2018
+  subtitle: Master of Computer Applications
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Hindustan University
+  title-url: https://hcaschennai.edu.in/
+  date: 2011 - 2015
+  subtitle: Bachelor of Computer Applications
   timeline-side: left

@@ -5,29 +5,38 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
-  weight: 5
-
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: Pytorch
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Tensorflow
   weight: 3
 
-- name: Django
-  weight: 1
+- name: Scikit-learn
+  weight: 4
 
-- name: Spring
+- name: Pandas
+  weight: 4
+
+- name: Numpy
+  weight: 3
+
+- name: OpenCV
+  weight: 3
+
+- name: Matplotlib
   weight: 2
 
-- name: Rails
-  weight: 4
+- name: Seaborn
+  weight: 2
+
+- name: ggplot2
+  weight: 2
+
+- name: Scipy
+  weight: 2
+
+- name: Spacy
+  weight: 2
+
+- name: NLTK
+  weight: 2
