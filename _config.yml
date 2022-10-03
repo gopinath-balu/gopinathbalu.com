@@ -21,7 +21,7 @@ email: gopinath.balu@outlook.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: gopinath-balu
-codepen_username: exampleUser
+# codepen_username: exampleUser
 dev_username: exampleUser
 linkedin_username: gopinath-balu
 twitter_username: exampleUser
@@ -32,9 +32,9 @@ twitter_username: exampleUser
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Know thy author
 # about_me_description: This will be displayed under the title.
-about_me_description: Hello I am Gopi from Chennai, India. A passionate research engineer with strong research, product building and have been involved in deploying models to production. Currently working as an AI Research Engineer at <a class="highlight-link" href="https://www.saama.com" target="_blank" rel="noreferrer"> Saama Technologies</a>, Chennai. Curious to solve business problems using machine learning with more focus on deep learning. Have worked on Computer Vision and NLP models, currenlty interested in Graph Neural Networks and Knowledge Graphs. Zealous towards AI research and open source community contribution. Checkout my blog posts <a class="highlight-link" href="https://blog.gopinathbalu.com" target="_blank" rel="noreferrer">here</a>.
+about_me_description: <p> Passionate about research, Gopi joined the AI scene in 2018 to solve business problems using machine learning and deep learning. He used to dread being a student but ironically now he calls himself a 'Forever student'. True to his self proclamation, he loves to consume the newest research ideas and apply them in his work. He works to solve puzzles that inspire people to consider their relationship with the data faction while contributing to the community and now he has decided to connect with people via his <a class="highlight-link" href="https://blog.gopinathbalu.com" target="_blank" rel="noreferrer">writing</a>.  </p> <br> <p> Layered by years of experience in Computer Vision and NLP he is now interested in Knowledge Graphs and Graph Neural Networks. Gopi currently lives in Madras with one too many weekend getaways. Stop by to say hi especially if you’re into Motorsports or Astronomy! </p>.
 
 
 # SKILLS SECTION
@@ -111,7 +111,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: ""
+  id: "G-KRSZSM9Z2H"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
