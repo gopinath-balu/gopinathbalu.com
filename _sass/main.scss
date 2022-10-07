@@ -24,15 +24,15 @@ $primary-color: #4f94d9;
 
 /* General */
 
-html {
-  background: $bg-color;
-  color: $text-color;
-  font-family: $font-family;
-  font-size: $font-size-base;
-  font-weight: normal;
-  height: 100%;
-  overflow: hidden;
-}
+// html {
+//   background: $bg-color;
+//   color: $text-color;
+//   font-family: $font-family;
+//   font-size: $font-size-base;
+//   font-weight: normal;
+//   height: 100%;
+//   overflow: hidden;
+// }
 
 body {
   height: 100%;
@@ -923,6 +923,4 @@ a {
   }
 }
 
-.gopi-testing {
-      width: 27.9rem;
-    }
+
