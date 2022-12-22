@@ -321,6 +321,36 @@ a {
     }
   }
 
+  .github:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+      colorGithub 1s linear forwards;
+    }
+    .social-svg {
+      fill: #161A1F;
+    }
+  }
+
+  .gscholar:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+      colorGScholar 1s linear forwards;
+    }
+    .social-svg {
+      fill: #3A7AF2;
+    }
+  }
+
+  .blog:hover {
+    .circle {
+      animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
+      colorBlog 1s linear forwards;
+    }
+    .social-svg {
+      fill: #F64B1E;
+    }
+  }
+
   .linkedin:hover {
     .circle {
       animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards,
@@ -369,7 +399,25 @@ a {
 
   @keyframes colorEmail {
     to {
-      stroke: #b23121;
+      stroke: #d44638;
+    }
+  }
+
+  @keyframes colorGithub {
+    to {
+      stroke: #161A1F;
+    }
+  }
+
+  @keyframes colorGScholar {
+    to {
+      stroke: #3A7AF2;
+    }
+  }
+
+  @keyframes colorBlog {
+    to {
+      stroke: #F64B1E;
     }
   }
 
@@ -647,6 +695,30 @@ a {
     }
   }
 
+  .email:hover {
+    .social-svg {
+      fill: #d44638;
+    }
+  }
+
+  .github:hover {
+    .social-svg {
+      fill: #161A1F;
+    }
+  }
+
+  .gscholar:hover {
+    .social-svg {
+      fill: #3A7AF2;
+    }
+  }
+
+  .blog:hover {
+    .social-svg {
+      fill: #F64B1E;
+    }
+  }
+  
   .linkedin:hover {
     .social-svg {
       fill: #007bb6;
