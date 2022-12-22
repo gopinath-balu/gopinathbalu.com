@@ -34,7 +34,22 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Know thy author
 # about_me_description: This will be displayed under the title.
-about_me_description: <p> Passionate about research, Gopi joined the AI scene in 2018 to solve business problems using machine learning and deep learning. He used to dread being a student but ironically now he calls himself a 'Forever student'. True to his self proclamation, he loves to consume the newest research ideas and apply them in his work. He works to solve puzzles that inspire people to consider their relationship with the data faction while contributing to the community and now he has decided to connect with people via his <a class="highlight-link" href="https://blog.gopinathbalu.com" target="_blank" rel="noreferrer">writing</a>.  </p> <br> <p> Layered by years of experience in Computer Vision and NLP he is now interested in Knowledge Graphs and Graph Neural Networks. Gopi currently lives in Madras with one too many weekend getaways. Stop by to say hi especially if you’re into Motorsports or Astronomy! </p>.
+about_me_description: <p> 
+                          Passionate about research, Gopi joined the AI scene in 2018 to solve 
+                          business problems using machine learning and deep learning. He used to 
+                          dread being a student but ironically now he calls himself a 
+                          'Forever student'. True to his self proclamation, he loves to consume 
+                          the newest research ideas and apply them in his work. He works to solve 
+                          puzzles that inspire people to consider their relationship with the data 
+                          faction while contributing to the community and now he has decided to 
+                          connect with people via his <a class="highlight-link" 
+                          href="https://blog.gopinathbalu.com" target="_blank" 
+                          rel="noreferrer">writing.</a><p></p>Layered by years of 
+                          experience in Computer Vision and NLP he is now interested in 
+                          Knowledge Graphs and Graph Neural Networks. Gopi currently lives in 
+                          Madras with one too many weekend getaways. Stop by to say hi especially 
+                          if you’re into Motorsports or Astronomy!
+                      </p>
 
 
 # SKILLS SECTION
