@@ -55,18 +55,18 @@
         </a>
       {% endif %}
 
-      {% if site.blog_username != null %}
-        <a class="social-link blog" aria-label="My DEV" target="_blank" rel="noreferrer"
-          href="https://blog.{{site.blog_username}}">
+      {% if site.kaggle_username != null %}
+        <a class="social-link kaggle" aria-label="My Kaggle" target="_blank"
+          rel="noreferrer" href="https://kaggle.com/{{site.kaggle_username}}">
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#newspaper" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#kaggle" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">Blog</span>
+          <span class="label">Kaggle</span>
         </a>
       {% endif %}
 
@@ -85,18 +85,17 @@
         </a>
       {% endif %}
 
-      {% if site.twitter_username != null %}
-        <a class="social-link twitter" aria-label="My Twitter" target="_blank"
-          rel="noreferrer" href="https://twitter.com/{{site.twitter_username}}">
+      {% if site.blog_username != null %}
+        <a class="social-link blog" aria-label="My DEV" target="_blank" rel="noreferrer"
+          href="https://blog.{{site.blog_username}}">
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
-            </svg>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#newspaper" | prepend: site.baseurl }}"></use>
           </div>
-          <span class="label">Twitter</span>
+          <span class="label">Blog</span>
         </a>
       {% endif %}
     </div>
