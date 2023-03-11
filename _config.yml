@@ -35,20 +35,21 @@ show_aboutme_card: true
 about_me_title: Know thy author
 # about_me_description: This will be displayed under the title.
 about_me_description: <p> 
-                          Passionate about research, Gopi joined the AI scene in 2018 to solve 
-                          business problems using machine learning and deep learning. He used to 
-                          dread being a student but ironically now he calls himself a 
-                          'Forever student'. True to his self proclamation, he loves to consume 
-                          the newest research ideas and apply them in his work. He works to solve 
-                          puzzles that inspire people to consider their relationship with the data 
-                          faction while contributing to the community and now he has decided to 
-                          connect with people via his <a class="highlight-link" 
-                          href="https://blog.gopinathbalu.com" target="_blank" 
-                          rel="noreferrer">writing.</a><p></p>Layered by years of 
-                          experience in Computer Vision and NLP he is now interested in 
-                          Knowledge Graphs and Graph Neural Networks. Gopi currently lives in 
-                          Madras with one too many weekend getaways. Stop by to say hi especially 
-                          if you’re into Motorsports or Astronomy!
+                          Passionate about research, I joined the AI scene in 2018 to solve 
+                          business problems using machine learning and deep learning. There are 
+                          days that I used to dread being a student but ironically now I call 
+                          myself a 'Forever student'. True to my self proclamation, I love to 
+                          consume the newest research ideas and apply them in my work. Among other 
+                          things, you will find that I work to solve puzzles that inspire people to
+                          consider their relationship with the data faction while contributing to 
+                          the community and now have decided to connect with people via my 
+                          <a class="highlight-link" href="https://blog.gopinathbalu.com" 
+                          target="_blank" rel="noreferrer">writing.</a><p></p>Layered by years of 
+                          experience in Computer Vision and NLP, my interest has now shifted to 
+                          Knowledge Graphs and Graph Neural Networks. Chennai is my home but you can
+                          find me on one too many weekend getaways. I love Cars and Stars 
+                          and everything in between. If you really do want to hear about it, come
+                          say hi!
                       </p>
 
 
@@ -97,8 +98,9 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Gopi is interested in collaborating on new projects and ideas, feel
-                     free to stop by to say Hi!
+contact_description: I'm interested to work on new ideas, 
+                     projects and up for research collaboration in my free time. Feel 
+                     free to stop by and say Hi!
 
 # GITHUB-METADATA
 # Set this to your forked repository
